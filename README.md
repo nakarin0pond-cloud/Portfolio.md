@@ -1,6 +1,6 @@
 # Portfolio.md
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/technology-background-abstract-digital-hand_53876-104051.jpg" alt="header image" />
+  <img src="" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Nakarin Nanthasen <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
