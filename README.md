@@ -1,10 +1,9 @@
 # Portfolio.md
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" alt="header image" />
+  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" alt="header image" width="800"/>
 </p>
 
-
-<h1 align="center">Hi, I’m Nakarin Nanthasen <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Nakarin Nanthasen <img height="25" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>IT Student • Full-stack Learner • Problem Solver</strong><br/>
@@ -64,8 +63,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -78,5 +77,5 @@
 - 🌍 Address: Chiang Rai, Thailand  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakarinnanthasen&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nakarinnanthasen&style=flat-square" alt="profile views" width="140"/>
 </p>
