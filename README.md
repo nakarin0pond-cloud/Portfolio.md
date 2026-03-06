@@ -1,297 +1,110 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nakarin Portfolio</title>
+# Portfolio
 
-<style>
-
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Arial, Helvetica, sans-serif;
-}
-
-body{
-background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
-color:white;
-}
-
-/* NAVBAR */
-
-nav{
-display:flex;
-justify-content:space-between;
-align-items:center;
-padding:20px 10%;
-background:#0a0a0a;
-}
-
-nav h2{
-color:#00eaff;
-}
-
-nav ul{
-display:flex;
-list-style:none;
-}
-
-nav ul li{
-margin-left:25px;
-}
-
-nav ul li a{
-text-decoration:none;
-color:white;
-font-weight:bold;
-}
-
-/* HERO */
-
-.hero{
-height:90vh;
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:center;
-text-align:center;
-}
-
-.hero img{
-width:170px;
-height:170px;
-border-radius:50%;
-border:4px solid #00eaff;
-margin-bottom:20px;
-}
-
-.hero h1{
-font-size:40px;
-margin-bottom:10px;
-}
-
-.hero span{
-color:#00eaff;
-}
-
-.hero p{
-margin-bottom:25px;
-font-size:18px;
-}
-
-.btn{
-padding:12px 30px;
-background:#00eaff;
-color:black;
-border:none;
-border-radius:25px;
-font-weight:bold;
-cursor:pointer;
-text-decoration:none;
-}
-
-/* SECTION */
-
-section{
-padding:80px 10%;
-}
-
-.section-title{
-text-align:center;
-font-size:32px;
-margin-bottom:40px;
-color:#00eaff;
-}
-
-/* ABOUT */
-
-.about{
-max-width:800px;
-margin:auto;
-text-align:center;
-line-height:1.7;
-}
-
-/* SKILLS */
-
-.skills{
-display:flex;
-flex-wrap:wrap;
-justify-content:center;
-gap:20px;
-}
-
-.skill-box{
-background:#111;
-padding:15px 25px;
-border-radius:10px;
-}
-
-/* PROJECT */
-
-.projects{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:25px;
-}
-
-.project-card{
-background:#111;
-padding:20px;
-border-radius:12px;
-}
-
-.project-card h3{
-margin-bottom:10px;
-}
-
-.project-card a{
-color:#00eaff;
-text-decoration:none;
-}
-
-/* FOOTER */
-
-footer{
-text-align:center;
-padding:30px;
-background:#0a0a0a;
-margin-top:40px;
-}
-
-</style>
-</head>
-
-<body>
-
-<!-- NAVBAR -->
-
-<nav>
-<h2>Nakarin</h2>
-
-<ul>
-<li><a href="#about">About</a></li>
-<li><a href="#skills">Skills</a></li>
-<li><a href="#projects">Projects</a></li>
-<li><a href="#contact">Contact</a></li>
-</ul>
-
-</nav>
-
-<!-- HERO -->
-
-<div class="hero">
-
-<img src="images/pond.png" alt="profile">
-
-<h1>Hello, I'm <span>Nakarin</span></h1>
-
-<p>IT Student | Web Developer | Problem Solver</p>
-
-<a class="btn" href="#projects">See My Work</a>
-
-</div>
-
-<!-- ABOUT -->
-
-<section id="about">
-
-<h2 class="section-title">About Me</h2>
-
-<div class="about">
-
-<p>
-I am an Information Technology student at Maejo University with a passion for web development.
-I enjoy building web applications that solve real-world problems and improve user experience.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" width="800"/>
 </p>
 
-<br>
+<h1 align="center">Hi, I'm Nakarin Nanthasen 👋</h1>
 
-<p>
-My graduation project is a Community Agricultural Pre-order Website that allows users to pre-order agricultural products directly from local farmers.
+<p align="center">
+IT Student • Web Developer • Problem Solver
 </p>
 
-</div>
+---
 
-</section>
+# 🚀 About Me
 
-<!-- SKILLS -->
+🎓 Information Technology Student at **Maejo University**
 
-<section id="skills">
+💻 Interested in **Web Development and Backend Development**
 
-<h2 class="section-title">Skills</h2>
+🌱 Currently learning
 
-<div class="skills">
+- Java
+- Spring MVC
+- Database Design
+- Web Application Development
 
-<div class="skill-box">Java</div>
-<div class="skill-box">Spring MVC</div>
-<div class="skill-box">HTML</div>
-<div class="skill-box">CSS</div>
-<div class="skill-box">MySQL</div>
-<div class="skill-box">Docker</div>
-<div class="skill-box">GitHub</div>
+🎯 My goal is to build useful **community-based web applications**
 
-</div>
+📫 Contact  
+Email: **Nakarin_p@gmail.com**
 
-</section>
+---
 
-<!-- PROJECTS -->
+# 🧰 Tech Stack
 
-<section id="projects">
+### Front-end
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
-<h2 class="section-title">Projects</h2>
+### Back-end
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white)
 
-<div class="projects">
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-<div class="project-card">
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<h3>Community Agricultural Pre-order Website</h3>
+---
 
-<p>
-Web application for pre-ordering agricultural products from community farmers.
+# 📌 Featured Projects
+
+## Community Agricultural Pre-order Website
+
+Web application that allows users to **pre-order agricultural products directly from farmers in the community**
+
+**Technology**
+
+- Java
+- Spring MVC
+- HTML
+- CSS
+- MySQL
+- Docker
+
+**Features**
+
+- User registration
+- Product browsing
+- Pre-order system
+- Product management for farmers
+
+**Testing**
+
+The system was tested by **software testing students as part of their testing course**
+
+---
+
+# 📚 Education
+
+**Maejo University**
+
+Bachelor of Science in Information Technology  
+2021 - Present
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact" />
+
 </p>
 
-<br>
+---
 
-<p>
-Tech: Java, Spring MVC, MySQL, HTML, CSS
-</p>
+# 🤝 Contact
 
-<br>
+📧 Email: **Nakarin_p@gmail.com**  
 
-<a href="https://github.com/786pondchannel" target="_blank">
-View Project →
-</a>
+📱 Phone: **081-515-7121**
 
-</div>
-
-</div>
-
-</section>
-
-<!-- CONTACT -->
-
-<section id="contact">
-
-<h2 class="section-title">Contact</h2>
-
-<div class="about">
-
-<p>Email: Nakarin_p@gmail.com</p>
-<p>Phone: 081-515-7121</p>
-<p>Location: Chiang Rai, Thailand</p>
-
-</div>
-
-</section>
-
-<footer>
-
-<p>© 2026 Nakarin Portfolio</p>
-
-</footer>
-
-</body>
-</html>
+🌏 Location: Chiang Rai, Thailand
