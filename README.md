@@ -16,13 +16,12 @@
 ## 🚀 About Me
 - 🎓 Information Technology Student at **Maejo University**  
 - 💻 Interested in **Web Application Development (Full-stack)**  
-- 🛠 Skilled in **Java, JavaScript, Spring MVC, HTML, CSS, MySQL**  
-- 🌐 Experience with **WordPress website development**  
-- 🌱 Currently learning **modern web technologies and backend development**  
-- 🎯 Passionate about building **community-based web applications**  
-- 📫 Reach me: **nakarin0pond@gmail.com**
-
----
+- 🛠 Skilled in **Java, Spring MVC, JavaScript, HTML, CSS, MySQL**  
+- 🌐 Experience with **WordPress Website Development**  
+- 🧪 Developed and tested a **Community Agricultural Pre-order Web Application** using Java Spring MVC  
+- 🏆 **Outstanding Academic Achievement Award 2023** – Information Technology Program, Maejo University  
+- 🎯 Passionate about building **community-based web systems**  
+- 📫 Reach me: **Nakarin0pond@gmail.com**
 
 ## 🧰 Tech Stack & Tools
 <div align="center">
