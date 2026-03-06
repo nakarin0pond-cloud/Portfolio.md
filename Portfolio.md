@@ -1,9 +1,9 @@
 # Portfolio.md
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" alt="header image" width="800"/>
+  <img src="" alt="header image" width="800"/>
 </p>
 
-<h1 align="center">Hi, I’m Nakarin Nanthasen <img height="25" src="" /></h1>
+<h1 align="center">Hi, I’m Nakarin Nanthasen <img height="25" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>IT Student • Full-stack Learner • Problem Solver</strong><br/>
