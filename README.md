@@ -20,7 +20,7 @@
 - 🌐 Experience with **WordPress website development**  
 - 🌱 Currently learning **modern web technologies and backend development**  
 - 🎯 Passionate about building **community-based web applications**  
-- 📫 Reach me: **Nakarin0pond@gmail.com**
+- 📫 Reach me: **nakarin0pond@gmail.com**
 
 ---
 
@@ -100,7 +100,7 @@ Bachelor of Science in **Information Technology**
 
 > “Great products are built by great people working together.”
 
-- 💌 Email: **Nakarin0pond@gmail.com**  
+- 💌 Email: **nakarin0pond@gmail.com**  
 - 📱 Phone: **081-515-7121**  
 - 🌍 Chiang Rai, Thailand  
 
