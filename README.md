@@ -1,110 +1,109 @@
 # Portfolio
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" width="800"/>
+  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" alt="header image" width="800"/>
 </p>
 
-<h1 align="center">Hi, I'm Nakarin Nanthasen 👋</h1>
+<h1 align="center">Hi, I’m Nakarin Nanthasen 👋</h1>
 
 <p align="center">
-IT Student • Web Developer • Problem Solver
+  <strong>IT Student • Web Developer • Problem Solver</strong><br/>
+  <em>Building practical web applications that solve real-world problems</em>
 </p>
 
 ---
 
-# 🚀 About Me
-
-🎓 Information Technology Student at **Maejo University**
-
-💻 Interested in **Web Development and Backend Development**
-
-🌱 Currently learning
-
-- Java
-- Spring MVC
-- Database Design
-- Web Application Development
-
-🎯 My goal is to build useful **community-based web applications**
-
-📫 Contact  
-Email: **Nakarin_p@gmail.com**
+## 🚀 About Me
+- 🎓 Information Technology Student at **Maejo University**  
+- 💻 Interested in **Web Application Development (Full-stack)**  
+- 🛠 Skilled in **Java, Spring MVC, HTML, CSS, MySQL**  
+- 🌱 Currently learning **Modern Web Development & Backend Systems**  
+- 🎯 Passionate about building **community-based web systems**  
+- 📫 Reach me: **Nakarin_p@gmail.com**
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-### Front-end
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+<div align="center">
 
-### Back-end
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white)
+| Domain | Technologies |
+|------|------|
+| **Frontend** | HTML, CSS |
+| **Backend** | Java, Spring MVC |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, Docker |
+| **Environment** | phpMyAdmin, Localhost |
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-## Community Agricultural Pre-order Website
+## 🌾 Community Agricultural Pre-order Website  
+**Graduation Project – Maejo University**
 
-Web application that allows users to **pre-order agricultural products directly from farmers in the community**
+A web application that allows users to **pre-order agricultural products directly from farmers in the community**, helping connect local producers with consumers.
 
-**Technology**
+### Technologies Used
+- Java  
+- Spring MVC  
+- HTML / CSS  
+- MySQL  
+- Docker  
+- phpMyAdmin  
 
-- Java
-- Spring MVC
-- HTML
-- CSS
-- MySQL
-- Docker
+### Key Features
+- User registration and login system  
+- Browse agricultural products  
+- Pre-order system for farm products  
+- Product management for farmers  
+- Upload payment slip system  
 
-**Features**
+### Development Highlights
+- Designed **MVC architecture using Spring MVC**
+- Created **relational database schema with MySQL**
+- Implemented **product and order management system**
+- Used **Docker for local development environment**
+- Source code managed using **GitHub**
 
-- User registration
-- Product browsing
-- Pre-order system
-- Product management for farmers
-
-**Testing**
-
-The system was tested by **software testing students as part of their testing course**
+### Testing
+The system was **tested by software testing students** as part of a **Software Testing course**, ensuring system functionality and usability.
 
 ---
 
 # 📚 Education
 
-**Maejo University**
+**Maejo University – Thailand**  
+Bachelor of Science in **Information Technology**  
+2021 – Present
 
-Bachelor of Science in Information Technology  
-2021 - Present
+**Huayso Wittayakhom Ratchamangklaphisek School**  
+2014 – 2020
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
-# 🤝 Contact
+# 🤝 Let’s Connect
 
-📧 Email: **Nakarin_p@gmail.com**  
+> “Great products are built by great people working together.”
 
-📱 Phone: **081-515-7121**
+- 💌 Email: **Nakarin_p@gmail.com**  
+- 📱 Phone: **081-515-7121**  
+- 🌍 Chiang Rai, Thailand  
 
-🌏 Location: Chiang Rai, Thailand
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nakarinnanthasen&style=flat-square" alt="profile views" width="140"/>
+</p>
