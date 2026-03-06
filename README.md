@@ -16,26 +16,26 @@
 ## 🚀 About Me
 - 🎓 Information Technology Student at **Maejo University**  
 - 💻 Interested in **Web Application Development (Full-stack)**  
-- 🛠 Skilled in **Java, Spring MVC, HTML, CSS, MySQL**  
-- 🌱 Currently learning **Modern Web Development & Backend Systems**  
-- 🎯 Passionate about building **community-based web systems**  
-- 📫 Reach me: **Nakarin_p@gmail.com**
+- 🛠 Skilled in **Java, JavaScript, Spring MVC, HTML, CSS, MySQL**  
+- 🌐 Experience with **WordPress website development**  
+- 🌱 Currently learning **modern web technologies and backend development**  
+- 🎯 Passionate about building **community-based web applications**  
+- 📫 Reach me: **Nakarin0pond@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack & Tools
-
 <div align="center">
 
-| Domain | Technologies |
-|------|------|
-| **Frontend** | HTML, CSS |
-| **Backend** | Java, Spring MVC |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, Docker |
-| **Environment** | phpMyAdmin, Localhost |
+| Domain | Primary | Comfortable | Currently Exploring |
+|--------|---------|-------------|---------------------|
+| Front-end | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+| Back-end | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
 </div>
+
 
 ---
 
@@ -100,7 +100,7 @@ Bachelor of Science in **Information Technology**
 
 > “Great products are built by great people working together.”
 
-- 💌 Email: **Nakarin_p@gmail.com**  
+- 💌 Email: **Nakarin0pond@gmail.com**  
 - 📱 Phone: **081-515-7121**  
 - 🌍 Chiang Rai, Thailand  
 
