@@ -83,12 +83,17 @@ Bachelor of Science in **Information Technology**
 
 ---
 
-## 🌐 Portfolio
+---
 
-💻 Personal Portfolio Website  
-Showcasing my web development projects and design work.
+## 🌐 Portfolio Website
 
-🔗 https://nakarin0pond-cloud.github.io/nakarin0pond.github.io/
+<p align="center">
+
+<a href="https://nakarin0pond-cloud.github.io/nakarin0pond.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</p>
 
 ---
 
