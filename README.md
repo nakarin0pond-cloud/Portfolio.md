@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="" alt="header image" width="800"/>
+  <img src="pond.png" alt="header image" width="800"/>
 </p>
 
 <h1 align="center">Hi, I’m Nakarin Nanthasen 👋</h1>
