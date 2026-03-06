@@ -83,15 +83,12 @@ Bachelor of Science in **Information Technology**
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Portfolio
 
-<div align="center">
+💻 Personal Portfolio Website  
+Showcasing my web development projects and design work.
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nakarinnanthasen&show_icons=true&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakarinnanthasen&layout=compact&hide_border=true" />
-
-</div>
+🔗 https://nakarin0pond-cloud.github.io/nakarin0pond.github.io/
 
 ---
 
