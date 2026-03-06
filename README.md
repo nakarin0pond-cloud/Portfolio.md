@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ca67e54-5457-4d6b-bcf5-e31181cf9762" alt="header image" width="800"/>
+  <img src="" alt="header image" width="800"/>
 </p>
 
 <h1 align="center">Hi, I’m Nakarin Nanthasen 👋</h1>
